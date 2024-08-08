@@ -1,0 +1,7 @@
+# SNAP pin export table
+#
+# Product:	MER_RR__1PPBCM20090607_082128_000005942079_00379_38008_0095.N1
+# Created on:	Mon Nov 28 08:37:55 CET 2016
+
+Name	Lon	Lat
+pin_1	-1.5038888889	40.9705555556

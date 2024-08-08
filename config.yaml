@@ -1,0 +1,6 @@
+image_folder: "raw"
+output_folder: "output"
+
+pixex:
+  coordinates_file: "coordinates/coordinates_2.txt"
+  output_prefix: "extraction"
