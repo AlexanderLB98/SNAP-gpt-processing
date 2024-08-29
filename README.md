@@ -10,10 +10,13 @@ Este programa se encarga de analizar imágenes utilizando comandos directos de S
 * Configuración del programa definida en `config.yaml`
 
 # Uso
-Asegúrate de tener todas las dependencias instaladas.
-Prepara el archivo de configuración config.yaml según tus necesidades.
-Ejecuta el programa con el siguiente comando:
-python nombre_del_programa.py
+1. Asegúrate de tener todas las dependencias instaladas.
+2. Prepara el archivo de configuración config.yaml según tus necesidades.
+3. Ejecuta el programa con el siguiente comando:
+
+``` 
+python gpt_snap.py
+```
 
 El programa procesará todas las imágenes en la carpeta especificada en image_folder, y guardará los resultados en un archivo CSV llamado results.csv en la misma carpeta que el script.
 
